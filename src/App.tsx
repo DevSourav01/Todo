@@ -53,7 +53,7 @@ function App() {
           <button
             onClick={addTodo}
             className="bg-violet-600 hover:bg-violet-500 active:scale-95
-                       text-white font-semibold px-5 py-3 rounded-xl 
+                       text-white font-semibold px-3 py-3 rounded-xl 
                        transition-all duration-150 text-sm"
           >
             Add
